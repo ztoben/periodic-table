@@ -4,7 +4,7 @@ _A periodic table implementation in css grid and React.js_
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/37e2123d-41de-4973-b04d-6085b7cd3e64/deploy-status)](https://app.netlify.com/sites/ztoben-periodic-table/deploys)
 
-View the live version [here](https://ztoben-periodic-table.netlify.com/).
+View the live version [here](https://periodic-grid.netlify.com/).
 
 Icon made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a>
 from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
